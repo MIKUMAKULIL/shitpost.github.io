@@ -1,1 +1,2 @@
 # shitpost.github.io
+lol
