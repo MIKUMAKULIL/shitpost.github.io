@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('https://i.pinimg.com/1200x/7c/0e/4f/7c0e4fd95dee0d80afe31bacfd3ec123.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.brd {
+    border: 4px double black; /* Параметры границы */
+    background: #FF1493; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
